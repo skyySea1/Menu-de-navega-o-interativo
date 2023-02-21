@@ -1,3 +1,3 @@
 # Menu-de-navega-o-interativo
 
-[acesse aqui](https://stackblitz.com/edit/web-platform-3hba64)
+[acesse aqui](https://stackblitz.com/edit/web-platform-3hba64) para ver o arquivo
